@@ -1,0 +1,394 @@
+[
+    {
+        "name": "Amon-Ra St. Brown",
+        "position": "WR",
+        "projected_yards": 85,
+        "line": 70.5,
+        "delta": 14.5,
+        "suggestion": "Over"
+    },
+    {
+        "name": "Jameson Williams",
+        "position": "WR",
+        "projected_yards": 63,
+        "line": 48.5,
+        "delta": 14.5,
+        "suggestion": "Over"
+    },
+    {
+        "name": "Jaylen Waddle",
+        "position": "WR",
+        "projected_yards": 59,
+        "line": 44.5,
+        "delta": 14.5,
+        "suggestion": "Over"
+    },
+    {
+        "name": "Rome Odunze",
+        "position": "WR",
+        "projected_yards": 56,
+        "line": 42.5,
+        "delta": 13.5,
+        "suggestion": "Over"
+    },
+    {
+        "name": "Xavier Worthy",
+        "position": "WR",
+        "projected_yards": 46,
+        "line": 32.5,
+        "delta": 13.5,
+        "suggestion": "Over"
+    },
+    {
+        "name": "Theo Johnson",
+        "position": "TE",
+        "projected_yards": 37,
+        "line": 24.5,
+        "delta": 12.5,
+        "suggestion": "Over"
+    },
+    {
+        "name": "Jonnu Smith",
+        "position": "TE",
+        "projected_yards": 55,
+        "line": 42.5,
+        "delta": 12.5,
+        "suggestion": "Over"
+    },
+    {
+        "name": "Wan'Dale Robinson",
+        "position": "WR",
+        "projected_yards": 42,
+        "line": 30.5,
+        "delta": 11.5,
+        "suggestion": "Over"
+    },
+    {
+        "name": "Sam LaPorta",
+        "position": "TE",
+        "projected_yards": 47,
+        "line": 36.5,
+        "delta": 10.5,
+        "suggestion": "Over"
+    },
+    {
+        "name": "Dontayvion Wicks",
+        "position": "WR",
+        "projected_yards": 45,
+        "line": 35.5,
+        "delta": 9.5,
+        "suggestion": "Over"
+    },
+    {
+        "name": "Brock Bowers",
+        "position": "TE",
+        "projected_yards": 68,
+        "line": 59.5,
+        "delta": 8.5,
+        "suggestion": "Over"
+    },
+    {
+        "name": "Christian Watson",
+        "position": "WR",
+        "projected_yards": 54,
+        "line": 45.5,
+        "delta": 8.5,
+        "suggestion": "Over"
+    },
+    {
+        "name": "Malik Nabers",
+        "position": "WR",
+        "projected_yards": 70,
+        "line": 62.5,
+        "delta": 7.5,
+        "suggestion": "Over"
+    },
+    {
+        "name": "Cole Kmet",
+        "position": "TE",
+        "projected_yards": 29,
+        "line": 35.5,
+        "delta": -6.5,
+        "suggestion": "Under"
+    },
+    {
+        "name": "CeeDee Lamb",
+        "position": "WR",
+        "projected_yards": 72,
+        "line": 65.5,
+        "delta": 6.5,
+        "suggestion": "Over"
+    },
+    {
+        "name": "Jakobi Meyers",
+        "position": "WR",
+        "projected_yards": 60,
+        "line": 53.5,
+        "delta": 6.5,
+        "suggestion": "Over"
+    },
+    {
+        "name": "Tyrone Tracy Jr.",
+        "position": "RB",
+        "projected_yards": 16,
+        "line": 10.5,
+        "delta": 5.5,
+        "suggestion": "Over"
+    },
+    {
+        "name": "De'Von Achane",
+        "position": "RB",
+        "projected_yards": 36,
+        "line": 30.5,
+        "delta": 5.5,
+        "suggestion": "Over"
+    },
+    {
+        "name": "Jahmyr Gibbs",
+        "position": "RB",
+        "projected_yards": 24,
+        "line": 20.5,
+        "delta": 3.5,
+        "suggestion": "Over"
+    },
+    {
+        "name": "D'Andre Swift",
+        "position": "RB",
+        "projected_yards": 18,
+        "line": 14.5,
+        "delta": 3.5,
+        "suggestion": "Over"
+    },
+    {
+        "name": "DeAndre Hopkins",
+        "position": "WR",
+        "projected_yards": 38,
+        "line": 41.5,
+        "delta": -3.5,
+        "suggestion": "Under"
+    },
+    {
+        "name": "Odell Beckham Jr.",
+        "position": "WR",
+        "projected_yards": 20,
+        "line": 16.5,
+        "delta": 3.5,
+        "suggestion": "Over"
+    },
+    {
+        "name": "Josh Jacobs",
+        "position": "RB",
+        "projected_yards": 18,
+        "line": 14.5,
+        "delta": 3.5,
+        "suggestion": "Over"
+    },
+    {
+        "name": "Keenan Allen",
+        "position": "WR",
+        "projected_yards": 54,
+        "line": 51.5,
+        "delta": 2.5,
+        "suggestion": "Over"
+    },
+    {
+        "name": "Rico Dowdle",
+        "position": "RB",
+        "projected_yards": 18,
+        "line": 15.5,
+        "delta": 2.5,
+        "suggestion": "Over"
+    },
+    {
+        "name": "DJ Moore",
+        "position": "WR",
+        "projected_yards": 57,
+        "line": 55.5,
+        "delta": 1.5,
+        "suggestion": "Over"
+    },
+    {
+        "name": "Tyreek Hill",
+        "position": "WR",
+        "projected_yards": 62,
+        "line": 63.5,
+        "delta": -1.5,
+        "suggestion": "Under"
+    },
+    {
+        "name": "Jayden Reed",
+        "position": "WR",
+        "projected_yards": 49,
+        "line": 50.5,
+        "delta": -1.5,
+        "suggestion": "Under"
+    },
+    {
+        "name": "Tucker Kraft",
+        "position": "TE",
+        "projected_yards": 32,
+        "line": 30.5,
+        "delta": 1.5,
+        "suggestion": "Over"
+    },
+    {
+        "name": "Tim Patrick",
+        "position": "WR",
+        "projected_yards": 23,
+        "line": 22.5,
+        "delta": 0.5,
+        "suggestion": "Over"
+    },
+    {
+        "name": "Travis Kelce",
+        "position": "TE",
+        "projected_yards": 53,
+        "line": 52.5,
+        "delta": 0.5,
+        "suggestion": "Over"
+    },
+    {
+        "name": "David Montgomery",
+        "position": "RB",
+        "projected_yards": 19,
+        "line": "N/A",
+        "delta": "N/A",
+        "suggestion": "No Line Available"
+    },
+    {
+        "name": "Brock Wright",
+        "position": "TE",
+        "projected_yards": 10,
+        "line": "N/A",
+        "delta": "N/A",
+        "suggestion": "No Line Available"
+    },
+    {
+        "name": "Allen Robinson",
+        "position": "WR",
+        "projected_yards": 6,
+        "line": "N/A",
+        "delta": "N/A",
+        "suggestion": "No Line Available"
+    },
+    {
+        "name": "Craig Reynolds",
+        "position": "RB",
+        "projected_yards": 0,
+        "line": "N/A",
+        "delta": "N/A",
+        "suggestion": "No Line Available"
+    },
+    {
+        "name": "Roschon Johnson",
+        "position": "RB",
+        "projected_yards": 6,
+        "line": "N/A",
+        "delta": "N/A",
+        "suggestion": "No Line Available"
+    },
+    {
+        "name": "Gerald Everett",
+        "position": "TE",
+        "projected_yards": 4,
+        "line": "N/A",
+        "delta": "N/A",
+        "suggestion": "No Line Available"
+    },
+    {
+        "name": "Tommy DeVito",
+        "position": "QB",
+        "projected_yards": "N/A",
+        "line": "N/A",
+        "delta": "N/A",
+        "suggestion": "No Line Available"
+    },
+    {
+        "name": "Darius Slayton",
+        "position": "WR",
+        "projected_yards": 35,
+        "line": "N/A",
+        "delta": "N/A",
+        "suggestion": "No Line Available"
+    },
+    {
+        "name": "Cooper Rush",
+        "position": "QB",
+        "projected_yards": "N/A",
+        "line": "N/A",
+        "delta": "N/A",
+        "suggestion": "No Line Available"
+    },
+    {
+        "name": "Luke Schoonmaker",
+        "position": "TE",
+        "projected_yards": 37,
+        "line": "N/A",
+        "delta": "N/A",
+        "suggestion": "No Line Available"
+    },
+    {
+        "name": "Patrick Mahomes",
+        "position": "QB",
+        "projected_yards": "N/A",
+        "line": "N/A",
+        "delta": "N/A",
+        "suggestion": "No Line Available"
+    },
+    {
+        "name": "Isiah Pacheco",
+        "position": "RB",
+        "projected_yards": 14,
+        "line": "N/A",
+        "delta": "N/A",
+        "suggestion": "No Line Available"
+    },
+    {
+        "name": "Kareem Hunt",
+        "position": "RB",
+        "projected_yards": 11,
+        "line": "N/A",
+        "delta": "N/A",
+        "suggestion": "No Line Available"
+    },
+    {
+        "name": "Tua Tagovailoa",
+        "position": "QB",
+        "projected_yards": "N/A",
+        "line": "N/A",
+        "delta": "N/A",
+        "suggestion": "No Line Available"
+    },
+    {
+        "name": "Jason Sanders",
+        "position": "sK",
+        "projected_yards": "N/A",
+        "line": "N/A",
+        "delta": "N/A",
+        "suggestion": "No Line Available"
+    },
+    {
+        "name": "Dolphins D/ST",
+        "position": "ar",
+        "projected_yards": "N/A",
+        "line": "N/A",
+        "delta": "N/A",
+        "suggestion": "No Line Available"
+    },
+    {
+        "name": "Jordan Love",
+        "position": "QB",
+        "projected_yards": "N/A",
+        "line": "N/A",
+        "delta": "N/A",
+        "suggestion": "No Line Available"
+    },
+    {
+        "name": "Brandon McManus",
+        "position": "sK",
+        "projected_yards": "N/A",
+        "line": "N/A",
+        "delta": "N/A",
+        "suggestion": "No Line Available"
+    }
+]
